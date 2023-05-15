@@ -821,7 +821,7 @@
       "1",
       "",
       "",
-      "Loading..."
+      "Provides cryptog. proof of reg. state by ref. to KEL."
     ],
     [
       "41",
@@ -841,7 +841,7 @@
       "1",
       "1",
       "1",
-      "Loading..."
+      "Space where humans and machines interact."
     ],
     [
       "42",
@@ -1141,7 +1141,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "BADA provides replay attack protection."
     ],
     [
       "57",
@@ -3581,7 +3581,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "An exact replica of a system that works just like the original."
     ],
     [
       "179",
@@ -3721,7 +3721,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "A child shell launched from a parent shell."
     ],
     [
       "186",
@@ -4061,7 +4061,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "Anchors external data to the key-state established by previous event."
     ],
     [
       "203",
@@ -4141,7 +4141,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "Applying an algorithm to accept or reject authenticity."
     ],
     [
       "207",
@@ -4401,7 +4401,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "HTTP requests to indicate desired action on resource."
     ],
     [
       "220",
@@ -4561,7 +4561,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "Commitment to next key set rotation or inception event."
     ],
     [
       "228",
@@ -4741,7 +4741,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "Cryptographic commitment verified. It's a hash of content, resistant to collision."
     ],
     [
       "237",
@@ -5261,7 +5261,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "XBRL: Digital Business Reporting Standard"
     ],
     [
       "263",
@@ -5581,7 +5581,7 @@
       "",
       "",
       "1",
-      "Loading..."
+      "Valid credentials within 90-day grace period."
     ],
     [
       "279",
@@ -5661,7 +5661,7 @@
       "",
       "",
       "1",
-      "Loading..."
+      "A GLEIF rep authorized to perform verification needed to issue the QVI vLEI Credential."
     ],
     [
       "283",
@@ -6641,7 +6641,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "Presentation exchange with cross-variant Issuer commitment verifiability performs disclosure."
     ],
     [
       "332",
@@ -7061,7 +7061,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "Autonomous space identifier."
     ],
     [
       "353",
@@ -7321,7 +7321,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "Codes supporting primitives can be specified in groups, enabling pipelining."
     ],
     [
       "367",
@@ -7381,7 +7381,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "Prepending a string with pad chars to align it to a certain length in bits/bytes."
     ],
     [
       "370",
@@ -7421,7 +7421,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "It's a character used for padding."
     ],
     [
       "372",
@@ -7441,7 +7441,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "Pre-padded characters added to fill empty space."
     ],
     [
       "373",
@@ -7761,7 +7761,7 @@
       "",
       "",
       "",
-      "Loading..."
+      "A decentralized, controlling peer doesn't create records as a traditional server would."
     ],
     [
       "389",
