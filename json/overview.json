@@ -240,7 +240,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "A directed acyclic graph is a mathematical construct with no cycles.",
       "",
       "A directed acyclic graph is a mathematical construct with no cycles."
     ],
@@ -900,7 +900,7 @@
       "1",
       "",
       "",
-      "Loading...",
+      "Provides crypto proof of registry state via KEL.",
       "",
       "Provides crypto proof of registry state via control KEL."
     ],
@@ -922,7 +922,7 @@
       "1",
       "1",
       "1",
-      "Loading...",
+      "The space where human-machine interaction occurs.",
       "",
       "The space of human-machine interactions."
     ],
@@ -1252,7 +1252,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "BADA offers replay attack protection.",
       "",
       "BADA provides replay attack protection."
     ],
@@ -4464,7 +4464,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Anchor external data to latest prior state.",
       "",
       "Anchor external data to the key state established by the latest event."
     ],
@@ -4552,7 +4552,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Applying an algorithm to accept or reject a message's authenticity.",
       "",
       "Algorithm applies to accept/reject message's authenticity."
     ],
@@ -4838,7 +4838,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "HTTP requests to indicate desired action on identified resource.",
       "",
       "HTTP requests to indicate desired action on identified resource."
     ],
@@ -5014,7 +5014,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Commitment to next key set in rotation or inception.",
       "",
       "Commitment to next rotation or inception event's key set."
     ],
@@ -5212,7 +5212,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Verifiable cryptographic commitment: a collision-resistant hash of content.",
       "",
       "Verifiable cryptographic commitment: a collision-resistant hash of content."
     ],
@@ -5784,7 +5784,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "XBRL stands for digital business reporting.",
       "",
       "XBRL stands for digital business reporting."
     ],
@@ -6136,7 +6136,7 @@
       "",
       "",
       "1",
-      "Loading...",
+      "Valid credential within 90-day grace period.",
       "",
       "Valid credential within 90-day grace period."
     ],
@@ -6224,7 +6224,7 @@
       "",
       "",
       "1",
-      "Loading...",
+      "A GLEIF rep authorized to perform verifications needed to issue a QVI vLEI Credential.",
       "",
       "A GLEIF rep authorized to verify & issue QVI vLEI Credential."
     ],
@@ -7302,7 +7302,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Presentation exchange w/ cross-variant Issuer commitment verifiability discloses essential properties.",
       "",
       "Exchanged presentation with cross-variant Issuer commitment verifiability as an essential property for disclosure."
     ],
@@ -7764,7 +7764,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "ID for autonomous space",
       "",
       "Autonomous space identifier."
     ],
@@ -8050,7 +8050,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Codes that group primitives enable pipelining.",
       "",
       "Codes for groups of primitives enable pipelining."
     ],
@@ -8116,7 +8116,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Prepending a string with leading pad characters to align it to a certain length in bits or bytes.",
       "",
       "Prepend a string with leading pad characters to align to a certain length in bits or bytes."
     ],
@@ -8160,7 +8160,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Filler character used to fill empty space.",
       "",
       "A character used to fill empty space."
     ],
@@ -8182,7 +8182,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Pre-padding added characters to fill empty space.",
       "",
       "Pre-conversion added characters to pad empty space."
     ],
@@ -8534,7 +8534,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "A decentralized control peer doesn't create records like a server does.",
       "",
       "A decentralized controller peer doesn't create records in the traditional sense of a server."
     ],
