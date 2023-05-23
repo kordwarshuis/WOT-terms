@@ -240,7 +240,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "DAGs, mathematical constructs with no cycles.",
       "",
       "A directed acyclic graph is a mathematical construct with no cycles."
     ],
@@ -284,7 +284,7 @@
       "1",
       "",
       "",
-      "Loading...",
+      "Distributed hash table.",
       "",
       "NO INPUT"
     ],
@@ -460,7 +460,7 @@
       "1",
       "",
       "",
-      "Loading...",
+      "KERI Agreement Algorithm for Control Est.",
       "",
       "NO INPUT"
     ],
@@ -526,7 +526,7 @@
       "1",
       "",
       "",
-      "Loading...",
+      "Key Event Receipt Infra.",
       "",
       "NO INPUT"
     ],
@@ -658,7 +658,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "OoB intro.",
       "",
       "NO INPUT"
     ],
@@ -680,7 +680,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "P2P.",
       "",
       "NO INPUT"
     ],
@@ -900,7 +900,7 @@
       "1",
       "",
       "",
-      "Loading...",
+      "Provides cryptog. proof of registry state via controlling KEL.",
       "",
       "Provides crypto proof of registry state via control KEL."
     ],
@@ -922,7 +922,7 @@
       "1",
       "1",
       "1",
-      "Loading...",
+      "Space where humans and machines interact.",
       "",
       "The space of human-machine interactions."
     ],
@@ -1164,7 +1164,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Objectively verifiable origin.",
       "",
       "NO INPUT"
     ],
@@ -1252,7 +1252,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "#ERROR!",
       "",
       "BADA provides replay attack protection."
     ],
@@ -3342,7 +3342,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Cryptographically binds an ID to a public/private key pair.",
       "",
       "NO INPUT"
     ],
@@ -3936,7 +3936,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "A copy of a system that works identically to the original.",
       "",
       "A copy of a system that works exactly like the original."
     ],
@@ -4024,7 +4024,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Kubernetes CLI.",
       "",
       "K8s CLI"
     ],
@@ -4090,7 +4090,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "A child shell started from a parent shell.",
       "",
       "A child shell started from a parent shell."
     ],
@@ -4838,7 +4838,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "HTTP requests to indicate desired action on resource.",
       "",
       "HTTP requests to indicate desired action on identified resource."
     ],
@@ -5014,7 +5014,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "#ERROR!",
       "",
       "Commitment to next rotation or inception event's key set."
     ],
@@ -5212,7 +5212,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Verifiable cryptographic commitment: a collision-resistant hash of content.",
       "",
       "Verifiable cryptographic commitment: a collision-resistant hash of content."
     ],
@@ -5784,7 +5784,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "XBRL stands for digital business reporting.",
       "",
       "XBRL stands for digital business reporting."
     ],
@@ -6136,7 +6136,7 @@
       "",
       "",
       "1",
-      "Loading...",
+      "A valid credential within 90-day grace period.",
       "",
       "Valid credential within 90-day grace period."
     ],
@@ -6180,7 +6180,7 @@
       "",
       "",
       "1",
-      "Loading...",
+      "A person who represents the Legal Entity in a context role and is issued an ECR vLEI Credential.",
       "",
       "A person representing the Legal Entity with an ECR vLEI Credential."
     ],
@@ -6224,7 +6224,7 @@
       "",
       "",
       "1",
-      "Loading...",
+      "#ERROR!",
       "",
       "A GLEIF rep authorized to verify & issue QVI vLEI Credential."
     ],
@@ -6840,7 +6840,7 @@
       "1",
       "",
       "",
-      "Loading...",
+      "Control split between two sets.",
       "",
       "Split control between two sets."
     ],
@@ -7302,7 +7302,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Exchange of disclosure with cross-variant Issuer commitment verifiability as a necessity.",
       "",
       "Exchanged presentation with cross-variant Issuer commitment verifiability as an essential property for disclosure."
     ],
@@ -7390,7 +7390,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Recording a document as a contract and linking it securely to other systems.",
       "",
       "Recording a doc. as a contract & securely linking to other systems."
     ],
@@ -7764,7 +7764,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Autonomous space identifier.",
       "",
       "Autonomous space identifier."
     ],
@@ -7940,7 +7940,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Data processing elements connected in series, each with output connected to the next element's input.",
       "",
       "Data processing elements connected in series, where output of one element is input of next."
     ],
@@ -8050,7 +8050,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "Codes for groups of primitives support pipelining.",
       "",
       "Codes for groups of primitives enable pipelining."
     ],
@@ -8116,7 +8116,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "#ERROR!",
       "",
       "Prepend a string with leading pad characters to align to a certain length in bits or bytes."
     ],
@@ -8160,7 +8160,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "It's a character used to fill empty space.",
       "",
       "A character used to fill empty space."
     ],
@@ -8182,7 +8182,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "#ERROR!",
       "",
       "Pre-conversion added characters to pad empty space."
     ],
@@ -8521,7 +8521,7 @@
       "",
       "",
       "",
-      "Loading...",
+      "A decentralized controlling peer doesn't create records like a server.",
       "",
       "A decentralized controller peer doesn't create records in the traditional sense of a server."
     ],
