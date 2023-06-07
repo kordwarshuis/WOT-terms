@@ -240,7 +240,7 @@
       "",
       "",
       "",
-      "Directed Acyclic Graph: a mathematical construct with no cycles.",
+      "Loading...",
       "",
       "A directed acyclic graph is a mathematical construct with no cycles."
     ],
@@ -460,7 +460,7 @@
       "1",
       "",
       "",
-      "KERI agreement algorithm for control establishment.",
+      "Loading...",
       "",
       "NO INPUT"
     ],
@@ -526,7 +526,7 @@
       "1",
       "",
       "",
-      "Key Event Receipt Infrastructure",
+      "Loading...",
       "",
       "NO INPUT"
     ],
@@ -658,7 +658,7 @@
       "",
       "",
       "",
-      "Out-of-band intro.",
+      "Loading...",
       "",
       "NO INPUT"
     ],
@@ -680,7 +680,7 @@
       "",
       "",
       "",
-      "P2P",
+      "Loading...",
       "",
       "NO INPUT"
     ],
@@ -900,7 +900,7 @@
       "1",
       "",
       "",
-      "Provides proof of registry state via KEL.",
+      "Loading...",
       "",
       "Provides crypto proof of registry state via control KEL."
     ],
@@ -922,7 +922,7 @@
       "1",
       "1",
       "1",
-      "Space for human-machine interactions.",
+      "Loading...",
       "",
       "The space of human-machine interactions."
     ],
@@ -1252,7 +1252,7 @@
       "",
       "",
       "",
-      "BADA provides replay attack protection.",
+      "Loading...",
       "",
       "BADA provides replay attack protection."
     ],
@@ -3342,7 +3342,7 @@
       "",
       "",
       "",
-      "Crypto binds ID to public/private key pair.",
+      "Loading...",
       "",
       "NO INPUT"
     ],
@@ -4090,7 +4090,7 @@
       "",
       "",
       "",
-      "A child shell started from a parent shell.",
+      "Loading...",
       "",
       "A child shell started from a parent shell."
     ],
@@ -4464,7 +4464,7 @@
       "",
       "",
       "",
-      "Anchor external data to the key-state established by the prior event.",
+      "Loading...",
       "",
       "Anchor external data to the key state established by the latest event."
     ],
@@ -5014,7 +5014,7 @@
       "",
       "",
       "",
-      "Commitment to next key set in rotation or inception.",
+      "Loading...",
       "",
       "Commitment to next rotation or inception event's key set."
     ],
@@ -5212,7 +5212,7 @@
       "",
       "",
       "",
-      "Verifiable crypto commitment: Collision-resistant hash of content.",
+      "Loading...",
       "",
       "Verifiable cryptographic commitment: a collision-resistant hash of content."
     ],
@@ -6136,7 +6136,7 @@
       "",
       "",
       "1",
-      "A valid credential in a 90-day grace period.",
+      "Loading...",
       "",
       "Valid credential within 90-day grace period."
     ],
@@ -6224,7 +6224,7 @@
       "",
       "",
       "1",
-      "A GLEIF rep authorized to verify and issue QVI vLEI Credential.",
+      "Loading...",
       "",
       "A GLEIF rep authorized to verify & issue QVI vLEI Credential."
     ],
@@ -7302,7 +7302,7 @@
       "",
       "",
       "",
-      "Presentation exchange with cross-variant Issuer commitment verifiability performs disclosure.",
+      "Loading...",
       "",
       "Exchanged presentation with cross-variant Issuer commitment verifiability as an essential property for disclosure."
     ],
@@ -7390,7 +7390,7 @@
       "",
       "",
       "",
-      "A method of recording a document as a legally binding contract and securely linking it to other systems.",
+      "Loading...",
       "",
       "Recording a doc. as a contract & securely linking to other systems."
     ],
@@ -7764,7 +7764,7 @@
       "",
       "",
       "",
-      "Autonomous space ID.",
+      "Loading...",
       "",
       "Autonomous space identifier."
     ],
@@ -8050,7 +8050,7 @@
       "",
       "",
       "",
-      "Codes to support primitives in groups enable pipelining.",
+      "Loading...",
       "",
       "Codes for groups of primitives enable pipelining."
     ],
@@ -8116,7 +8116,7 @@
       "",
       "",
       "",
-      "Prepend action/result of a string to align to set length in bits/bytes.",
+      "Loading...",
       "",
       "Prepend a string with leading pad characters to align to a certain length in bits or bytes."
     ],
@@ -8160,7 +8160,7 @@
       "",
       "",
       "",
-      "Character used to fill space.",
+      "Loading...",
       "",
       "A character used to fill empty space."
     ],
@@ -8182,7 +8182,7 @@
       "",
       "",
       "",
-      "Pre-conversion added characters pre-padded to fill empty space.",
+      "Loading...",
       "",
       "Pre-conversion added characters to pad empty space."
     ],
@@ -8523,7 +8523,7 @@
       "",
       "",
       "",
-      "A decentralized control peer doesn't create records like a traditional server.",
+      "Loading...",
       "",
       "A decentralized controller peer doesn't create records in the traditional sense of a server."
     ],
