@@ -1406,7 +1406,7 @@
       "",
       "",
       "",
-      "#NAME?",
+      "assertion of the truth, usually when it is challenged or uncertain",
       "",
       "Assertion of truth, disputed or uncertain."
     ],
@@ -9486,11 +9486,11 @@
     [
       "465",
       "-",
-      "WWWWWW",
+      "CBOR",
       "",
-      "",
-      "",
-      "https://github.com/weboftrust/WOT-terms/wiki/WWWWWW"
+      "CBOR",
+      "concise binary object representation",
+      "https://github.com/weboftrust/WOT-terms/wiki/CBOR"
     ]
   ]
 }
